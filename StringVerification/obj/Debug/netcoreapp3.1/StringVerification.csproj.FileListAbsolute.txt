@@ -1,0 +1,10 @@
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.deps.json
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.dll
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.pdb
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.csproj.AssemblyReference.cache
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.AssemblyInfoInputs.cache
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.AssemblyInfo.cs
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.dll
+C:\Users\RomaNov\source\repos\isbn-verification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.pdb

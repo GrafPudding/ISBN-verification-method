@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uURNZtv2x2hZcfFzJyg82McIQlkxdh+C53uRWNrALeAqerJAwXhNNwoaw+vHcwulhXZQ3xPX71Vt18ssXZoPoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RomaNov\\source\\repos\\isbn-verification\\StringVerification\\StringVerification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
